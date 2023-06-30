@@ -1,0 +1,9 @@
+Package: gay.kota.glowcons
+Name: Glowcons
+Version: 0.99998
+Architecture: iphoneos-arm
+Description: Add glow to your Icons!
+Maintainer: Kota
+Author: Kota
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1)
